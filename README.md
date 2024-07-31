@@ -1,54 +1,113 @@
 # Staff Software Engineer
+## Professional Summary 
+-  An inﬂuential, quality-driven, and passionate Staff Software Engineer with over 10 years of experience in Java/J2EE and Python technologies, specializing in the analysis, design, implementation, and testing of object-oriented applications. Demonstrates a strong enthusiasm for solving complex problems and optimizing systems for enhanced performance and efficiency.
+## Achievements: 
 
-#### Technical Skills: Java, Python, SQL, AWS
+- Project Leadership in Revenue-Driven Display Ads Development: Led the development of self-service Ad Flows, empowering business owners to drive sustained revenue growth independently of developer support. 
+
+- Technical Lead - Project Management and Payment Integration: Successfully led the integration of multiple third-party payment processors, streamlining billing processes and enhancing transaction efficiency to achieve significant cost savings and operational efficiency. 
+
+- Critical Billing Efficiency Enhancement: Led the design and development of cloud-deployable, Apache Kafka-based Spring Boot microservices, refactoring legacy code and achieving a 70% reduction in processing time through strategic migration from monolithic architecture to microservices. 
+
+- Cost Reduction and Global Team Leadership: Led a global team of six to implement device monitoring software, reducing client equipment operating costs by 50%. Delivered the project from concept to completion, demonstrating effective leadership and coordination throughout all development stages. 
+
+- Eager to Tackle New Challenges with Advanced Problem-Solving Skills: Highly motivated to apply my strong algorithmic and problem-solving skills to new roles, with a keen interest in driving innovation and optimizing systems for enhanced performance and efficiency. 
+
+## Technical Skills 
+
+- Languages & Tech: Java, J2EE, JSP, JDBC, Servlets, Hibernate, Python, Spring, Spring Boot, SQL, PL/SQL, REST, SOAP, GraphQL, Ehcache, Memcached, Redis, JUnit, Mockito, JMS, Apache Kafka 
+
+- Scripting Languages: HTML, CSS, XML, React.JS, Node.js, AJAX, jQuery, JavaScript, TypeScript, Thymeleaf 
+
+- Databases: MySQL, Oracle, PostgreSQL, MongoDB, Couchbase, NO SQL, Elasticsearch 
+
+- Cloud Technologies: AWS: RDS, DynamoDB, Lambda, ECS, EBS, EC2, ELB, S3, CloudWatch. Microsoft Azure 
+
+- Tools and Utilities: Jenkins, Docker, Kubernetes, Kloudfuse, Maven, Gradle, SonarQube, Nexus, Fortify, New Relic, Splunk, Grafana, Apache Tomcat, Web logic, JBOSS, Eclipse, IntelliJ Idea, SVN, GIT, Bitbucket, JIRA 
 
 ## Education						       		
 - Masters, Management of Technology	| Fairfield University at Connecticut, USA (_May 2016_)	 			        		
 - Bachelors, Computer Science | Jawaharlal Nehru Technological University at Hyderabad, India (_May 2012_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+### Client: Nations Info Corp., Westlake Village, CA			                                       (April 2020 - Present) 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+### Role: Staff Software Engineer                                                                      
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Responsibilities:  
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Architected and led the development of database-driven UX flows with Spring MVC and Thymeleaf, boosting customer conversions, feedback recording, lead capture, and multi-partner data posting.  
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- Spearheaded the development of an intuitive web application for Ad Flow, which remarkably reduced the setup time for business owners by 80%. The user-friendly interface was designed using TypeScript of React.js. The robust microservice APIs were engineered using Java 17, Open API (Swagger), and Spring Boot 3.0. To ensure efficient data storage and management, we integrated the solution with MySQL. 
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+- Enhanced system performance by implementing indexing strategies and leveraging MongoDB's flexible schema for adaptive data storage. Utilized MongoDB's robust querying capabilities and aggregation framework to enable real-time analytics and insights from captured event data 
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- Enhanced security, observability, and traffic management by implementing Service Mesh using Istio and Orchestrated microservices deployment using Kubernetes and Kloudfuse. 
 
-![Bike Study](/assets/img/bike_study.jpeg)
+- Took ownership of mission-critical modules, including Billing and Ad Flow, driving the strategic direction and ensuring seamless operations. Proactively managed business requests, resolving issues promptly, and migrated Monolithic systems to fault-tolerant, resilient, and auto-scalable microservices architecture. 
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- Reduced database load and significantly improved query response times by configuring Ehcache with multi-level caching and clustering and achieved a 35% reduction in backend load and improved user login times by implementing Memcached for session data and API response caching. 
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- Implemented asynchronous processing using Task Executor in a Spring Boot 3.0 (Spring Data, Spring Batch) application to upload millions of images to AWS S3, resulting in a 50% performance improvement. 
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+- Leveraged my experience in building and managing cloud infrastructures to optimize performance, scalability, cost-efficiency using AWS ECS, EBS, MSK, and DynamoDB, as well as Azure VMs, Blob Storage, SQL Database. 
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- Architected and developed a robust Python module for extracting credit scores via third-party APIs, utilizing libraries such as requests for seamless API calls, pandas for efficient data manipulation, and NumPy for advanced numerical operations. This solution improved the aggregation of credit data from multiple sources. 
+
+ 
+
+### Client: AT&T, EL Segundo, CA                                                                                  (Jan 2018 - April 2020)    
+
+### Role: Java Developer  
+
+### Responsibilities:  
+
+- Delivered multiple well-designed and tested Spring Boot Microservices on an Agile Release Train (ART) using Agile Methodology best practices (Continuous Integration, Peer Reviews, Program Increment Plans).  
+
+- Lessened 'Support Team' time by 40%, by implementing a custom ticketing system using React.js, Redux, and Spring Boot Microservices for maintaining resources track issues. 
+
+- Enhanced Application performance by leveraging Java 8 features such as Streams API, Predefined Functional Interfaces, Lambda Expressions, and Method Reference. 
+
+- Implemented MVC, Front Controller, Abstract Factory design patterns on architectural based web services. 
+
+- Implemented a logic to produce and consume asynchronous messages efﬁciently, on Apache Kafka to Elastic Search and managed bulk requests with parallel indexing threads. 
+
+- Improved performance by 30% of REST Microservices by building efﬁcient data caching & handling techniques to deal with millions of data records on Couchbase. 
+
+- Achieved sub-millisecond response times by using Redis for real-time analytics, inter-service communication. 
+
+- Optimized system performance through strategic indexing and utilization of PostgreSQL's robust schema flexibility for adaptable data storage. Leveraged PostgreSQL's advanced querying capabilities and powerful aggregation features to enable real-time analytics and insights. 
+
+- Employed SonarQube's static code analysis to develop rigorous test cases using Mockito and JUnit, ensuring extensive code coverage and maintaining high-quality standards. 
+
+- Integrated microservices with Eureka for centralized service registry, enhancing system efficiency and reliability through streamlined service discovery and communication 
+
+ 
+
+### Client: California Department of Health Care Services, Sacramento, CA   (Sep 2016 – Dec 2017) 
+
+### Role: Java Developer                                                                                              
+
+### Responsibilities:  
+
+- Improved 40% performance of spring applications, by upgrading from Java 1.5 to Java8 features Functional Programming, Enhanced Loop concepts & multi-catch. 
+
+- Designed and developed a new web application using Spring (IOC, MVC), and Java core concepts (Collections, Multithreading (Concurrency), and Exception Handling). 
+
+- Implemented various batch, and cron job scripts to sync data between Mainframe systems and Java applications on a daily and weekly basis on the Redhat Linux. 
+
+- Utilized JUnit and Mockito to conduct comprehensive unit testing, leveraging their robust mocking and assertion capabilities to ensure code integrity and accurate functionality. 
+
+- Implemented Log4J's powerful logging capabilities to proactively monitor error logs throughout the project lifecycle, facilitating swift issue detection and resolution to bolster application reliability. 
+
+ 
+
+### Client: Multi Centric Solutions, Hyderabad, India                                                 (July 2012 – July 2014) 
+
+### Role: Software Developer  
+
+### Responsibilities:  
+
+- Built a web app for profile management and public issue filing using Java 7, Servlets, JDBC, and JSP. 
+
+- Enhanced client-server communication with asynchronous JavaScript, XML, and AJAX. Improved user experience with AJAX preloading and jQuery UI for drag-and-drop functionality. 
