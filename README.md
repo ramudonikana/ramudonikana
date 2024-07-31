@@ -1,11 +1,10 @@
-# Data Scientist
+# Staff Software Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Java, Python, SQL, AWS
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education						       		
+- Masters, Management of Technology	| Fairfield University at Connecticut, USA (_May 2016_)	 			        		
+- Bachelors, Computer Science | Jawaharlal Nehru Technological University at Hyderabad, India (_May 2012_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
